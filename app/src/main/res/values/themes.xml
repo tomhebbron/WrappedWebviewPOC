@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme using AppCompat: -->
+    <style name="Theme.WrappedWebviewPOC" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- Remove or rename any Material-only attributes like colorPrimaryVariant, colorOnPrimary, etc. -->
+        <!-- Use simple AppCompat attributes or rename them to suit your design. -->
+
+        <!-- Example basic overrides: -->
+        <item name="android:colorPrimary">@color/purple_500</item>
+        <item name="android:colorPrimaryDark">@color/purple_700</item>
+        <item name="android:colorAccent">@color/teal_200</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
